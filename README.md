@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Piyush Jeena, currently a Phd student in Theoretical Physics.
 - 👀 I’m interested in Data science/Machine Learning.
-- 🌱 I’m currently learning on my own and doing projects.
 - 📫 Reach me at : [Linkedin](https://www.linkedin.com/in/piyush-jeena-19664123a/)
 
 <!---
