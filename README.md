@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Piyush Jeena, Phd student in Theoretical Physics.
+- 👋 Hi, I’m Piyush Jeena, Phd in Theoretical and Computational Physics.
 - 👀 I’m interested in Data science/Machine Learning.
 - 📫 Reach me at : [Linkedin](https://www.linkedin.com/in/piyush-jeena-19664123a/)
 
